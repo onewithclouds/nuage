@@ -96,14 +96,14 @@
     width: 32px;
 }
 .mgwoocommercebrands.brands-slider > .owl-theme .owl-controls .owl-buttons div.owl-prev {
-    background-image: url("http://nuage21.com/wp-content/plugins/ultimate-woocommerce-brands/img/nav-prev-invert.png");
+    background-image: url("http://onewithclouds.github.io/nuage/wp-content/plugins/ultimate-woocommerce-brands/img/nav-prev-invert.png");
     left: 16px;
     margin-top: -16px;
     position: absolute;
     top: 50%;
 }
 .mgwoocommercebrands.brands-slider > .owl-theme .owl-controls .owl-buttons div.owl-next {
-    background-image: url("http://nuage21.com/wp-content/plugins/ultimate-woocommerce-brands/img/nav-next-invert.png");
+    background-image: url("http://onewithclouds.github.io/nuage/wp-content/plugins/ultimate-woocommerce-brands/img/nav-next-invert.png");
     margin-top: -16px;
     position: absolute;
     right: 16px;
