@@ -25,11 +25,11 @@
 /* Font-face Icons */
 @font-face {
 	font-family: 'flexslider-icon';
-	src:url('http://onewithclouds.github.io/nuage/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.eot');
-	src:url('http://onewithclouds.github.io/nuage/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.eot#iefix') format('embedded-opentype'),
-		url('http://onewithclouds.github.io/nuage/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.woff') format('woff'),
-		url('http://onewithclouds.github.io/nuage/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.ttf') format('truetype'),
-		url('http://onewithclouds.github.io/nuage/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+	src:url('http://localhost/wpstatic/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.eot');
+	src:url('http://localhost/wpstatic/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.eot#iefix') format('embedded-opentype'),
+		url('http://localhost/wpstatic/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.woff') format('woff'),
+		url('http://localhost/wpstatic/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.ttf') format('truetype'),
+		url('http://localhost/wpstatic/wp-content/themes/shop-isle/assets/fonts/flexslider-icon.svg#flexslider-icon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

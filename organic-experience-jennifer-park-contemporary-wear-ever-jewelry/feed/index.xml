@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: Organic Experience of Jennifer Park&#8217;s Wear Ever Jewelry</title>
-	<atom:link href="http://onewithclouds.github.io/nuage/organic-experience-jennifer-park-contemporary-wear-ever-jewelry/feed" rel="self" type="application/rss+xml" />
-	<link>http://onewithclouds.github.io/nuage/organic-experience-jennifer-park-contemporary-wear-ever-jewelry</link>
+	<atom:link href="http://localhost/wpstatic/organic-experience-jennifer-park-contemporary-wear-ever-jewelry/feed" rel="self" type="application/rss+xml" />
+	<link>http://localhost/wpstatic/organic-experience-jennifer-park-contemporary-wear-ever-jewelry</link>
 	<description>Our Clothing &#38; Accessories</description>
 	<lastBuildDate>Sat, 18 Jun 2016 19:04:32 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -16,10 +16,10 @@
 	<generator>https://wordpress.org/?v=4.9.2</generator>
 	<item>
 		<title>By: Williamki</title>
-		<link>http://onewithclouds.github.io/nuage/organic-experience-jennifer-park-contemporary-wear-ever-jewelry#comment-7</link>
+		<link>http://localhost/wpstatic/organic-experience-jennifer-park-contemporary-wear-ever-jewelry#comment-7</link>
 		<dc:creator><![CDATA[Williamki]]></dc:creator>
 		<pubDate>Sat, 18 Jun 2016 19:04:32 +0000</pubDate>
-		<guid isPermaLink="false">http://onewithclouds.github.io/nuage/?p=595#comment-7</guid>
+		<guid isPermaLink="false">http://localhost/wpstatic/?p=595#comment-7</guid>
 		<description><![CDATA[Really informative article post.Thanks Again. Really Cool. Lobaton]]></description>
 		<content:encoded><![CDATA[<p>Really informative article post.Thanks Again. Really Cool. Lobaton</p>
 ]]></content:encoded>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>blue coral &#8211; Nuage Showroom</title>
-	<atom:link href="http://onewithclouds.github.io/nuage/product-tag/blue-coral/feed" rel="self" type="application/rss+xml" />
-	<link>http://onewithclouds.github.io/nuage</link>
+	<atom:link href="http://localhost/wpstatic/product-tag/blue-coral/feed" rel="self" type="application/rss+xml" />
+	<link>http://localhost/wpstatic</link>
 	<description>Our Clothing &#38; Accessories</description>
 	<lastBuildDate>Thu, 01 Feb 2018 01:55:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,14 +19,14 @@
 	<generator>https://wordpress.org/?v=4.9.2</generator>
 	<item>
 		<title>Tsumi Blue Coral and Howlite Neclace TS182</title>
-		<link>http://onewithclouds.github.io/nuage/product/tsumi-necklace-blue-coral-howlite-ts182</link>
+		<link>http://localhost/wpstatic/product/tsumi-necklace-blue-coral-howlite-ts182</link>
 		<pubDate>Wed, 10 Feb 2016 15:10:27 +0000</pubDate>
 		<dc:creator><![CDATA[onewithclouds]]></dc:creator>
 		
-		<guid isPermaLink="false">http://onewithclouds.github.io/nuage/?post_type=product&#038;p=60</guid>
+		<guid isPermaLink="false">http://localhost/wpstatic/?post_type=product&#038;p=60</guid>
 		<description><![CDATA[<p>This absolutely fantastic necklace made of howlite, glass, hematite and blue coral is inspired by tribal customs and traditions, as well as ritual dances. An adjustable necklace clasp allows to vary the length of this item within 52cm (20.47"). This luxurious necklace is made with a number of small triangular coral beads, with authentic traces of cutting and an absolutely unique natural blue hue.  Smooth facets of the coral beads are pleasant to the touch, while their arrangement provides the necklace with a sense of genuine volume that is rare of this type of jewelry. This kind of blue coral is mined only on the shoals of the Gulf of Biafra, located on African West Coast near Cameroon. Overall, blue triangular corals are complemented with elliptical howlite beads giving this necklace a feeling of unique and authentic charm, as well as a true sense of presence.</p>
 <p>Materials: Howlite, Blue Corals, Glass, Metal Elements, Sterling Silver Logo Charm. Length adjustable up to 52 cm (20.47").</p>
-<p>The post <a rel="nofollow" href="http://onewithclouds.github.io/nuage/product/tsumi-necklace-blue-coral-howlite-ts182">Tsumi Blue Coral and Howlite Neclace TS182</a> appeared first on <a rel="nofollow" href="http://onewithclouds.github.io/nuage">Nuage Showroom</a>.</p>
+<p>The post <a rel="nofollow" href="http://localhost/wpstatic/product/tsumi-necklace-blue-coral-howlite-ts182">Tsumi Blue Coral and Howlite Neclace TS182</a> appeared first on <a rel="nofollow" href="http://localhost/wpstatic">Nuage Showroom</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<p>This absolutely fantastic necklace made of howlite, glass, hematite and blue coral is inspired by tribal customs and traditions, as well as ritual dances. An adjustable necklace clasp allows to vary the length of this item within 52cm (20.47&#8243;). This luxurious necklace is made with a number of small triangular coral beads, with authentic traces of cutting and an absolutely unique natural blue hue.  Smooth facets of the coral beads are pleasant to the touch, while their arrangement provides the necklace with a sense of genuine volume that is rare of this type of jewelry. This kind of blue coral is mined only on the shoals of the Gulf of Biafra, located on African West Coast near Cameroon. Overall, blue triangular corals are complemented with elliptical howlite beads giving this necklace a feeling of unique and authentic charm, as well as a true sense of presence.</p>
 <h4>Materials</h4>
@@ -35,7 +35,7 @@
 <h4>About Tsumi</h4>
 <p>Tsumi is a brand born from the love of fashion, as well as an inherent need to be original and unique. Each Tsumi accessory is infused by a touch of authentic ethnic flair and is inspired by joyful memories of traveling the world. Tsumi accessories are crafted with an incredible skill, while remaining visionary and creative pieces of contemporary jewelry.</p>
 <p>Most of Tsumi accessories are made in either limited quantity or in one unique specimen. Tsumi is also synonymous with an exceptional selection of original and rare materials used to create their stylish accessories. These include semi-precious stones, corals, pearls and crystals, making Tsumi jewelry not only an embodiment of original style, but also an experience.</p>
-<p>The post <a rel="nofollow" href="http://onewithclouds.github.io/nuage/product/tsumi-necklace-blue-coral-howlite-ts182">Tsumi Blue Coral and Howlite Neclace TS182</a> appeared first on <a rel="nofollow" href="http://onewithclouds.github.io/nuage">Nuage Showroom</a>.</p>
+<p>The post <a rel="nofollow" href="http://localhost/wpstatic/product/tsumi-necklace-blue-coral-howlite-ts182">Tsumi Blue Coral and Howlite Neclace TS182</a> appeared first on <a rel="nofollow" href="http://localhost/wpstatic">Nuage Showroom</a>.</p>
 ]]></content:encoded>
 			</item>
 	</channel>
