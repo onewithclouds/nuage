@@ -768,7 +768,7 @@ you can use the generic selector below, but it's slower:
 	content: "\e092";
 }
 .social_facebook:before {
-	content: url(http://nuage21.com/wp-content/themes/shop-isle/assets/images/next-light.png), e-resize;
+	content: "\e093";
 }
 .social_twitter:before {
 	content: "\e094";
