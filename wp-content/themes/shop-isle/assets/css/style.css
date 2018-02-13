@@ -123,7 +123,7 @@ you can use the generic selector below, but it's slower:
 	content: "\35";
 }
 .arrow_carrot-2up:before {
-	content: "\36";
+    content: url(http://localhost/wpstatic/wp-content/themes/shop-isle/assets/images/iconmonstr-upload-9-16.png);
 }
 .arrow_carrot-2down:before {
 	content: "\37";
@@ -3924,7 +3924,7 @@ Scroll to top
 	height: 28px;
 	width: 28px;
 	text-align: center;
-	line-height: 28px;
+	line-height: 32px;
 	font-size: 14px;
 	color: #000;
 	opacity: 0.6;
