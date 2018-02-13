@@ -44,6 +44,21 @@ you can use the generic selector below, but it's slower:
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 }
+.social_facebook:before {
+    content: url(http://localhost/wpstatic/wp-content/themes/shop-isle/assets/images/facebook16px.png);
+}
+.social_twitter:before {
+    content: url(http://localhost/wpstatic/wp-content/themes/shop-isle/assets/images/twitter16px.png);
+}
+.social_pinterest:before {
+    content: url(http://localhost/wpstatic/wp-content/themes/shop-isle/assets/images/pinterest16px.png);
+}
+.social_googleplus:before {
+    content: url(http://localhost/wpstatic/wp-content/themes/shop-isle/assets/images/googleplus16px.png);
+}
+.social_instagram:before {
+    content: url(http://localhost/wpstatic/wp-content/themes/shop-isle/assets/images/instagram16px.png);
+}
 .arrow_up:before {
 	content: "\21";
 }
@@ -767,18 +782,6 @@ you can use the generic selector below, but it's slower:
 .icon_download:before {
 	content: "\e092";
 }
-.social_facebook:before {
-	content: "\e093";
-}
-.social_twitter:before {
-	content: "\e094";
-}
-.social_pinterest:before {
-	content: "\e095";
-}
-.social_googleplus:before {
-	content: "\e096";
-}
 .social_tumblr:before {
 	content: "\e097";
 }
@@ -787,9 +790,6 @@ you can use the generic selector below, but it's slower:
 }
 .social_wordpress:before {
 	content: "\e099";
-}
-.social_instagram:before {
-	content: "\e09a";
 }
 .social_dribbble:before {
 	content: "\e09b";
